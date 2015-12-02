@@ -9,6 +9,9 @@ namespace Homework_git
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("\n\n Second home work: Git 2015\n Violeta IT 3 course.\n\n Press any key to exit!");
+            Console.ReadKey();
+
         }
     }
 }
